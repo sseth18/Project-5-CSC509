@@ -1,4 +1,4 @@
-# Project-5-CSC509
+# CSC509: Project 5
  
  ## Introduction to Git and Github
  
