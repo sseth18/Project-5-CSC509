@@ -1,7 +1,4 @@
 # CSC509: Project 5
- **Samar Seth** 
- [GitHub](https://github.com/sseth18)
- 
  
  ## Introduction to Git and Github
  
@@ -18,5 +15,8 @@
  ## Project Euler Problems
  
  Each project Euler Problem is located in it's own playground file  labeled as projectEuler-problemX where X is the problem number. These problems are slightly more challenging than Coding Bat but not significantly more so.
+ 
+ Samar Seth
+ [GitHub](https://github.com/sseth18)
  
  
