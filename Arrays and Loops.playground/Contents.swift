@@ -1,11 +1,11 @@
-// Questions from https://www.weheartswift.com/arrays/
+//: Samar Seth
+//: [Questions](https://www.weheartswift.com/arrays/)
 
 // "listOfNumbers" referred to in all three questions
 var listOfNumbers = [1, 2, 3, 10, 100]
 
-// 6.1
-// Problem: print the maximum value from "listOfNumbers"
-// Solution:
+//: **Problem**: 6.1
+//: *Prompt*: print the maximum value from "listOfNumbers"
 var max = listOfNumbers[0]
 
 for number in listOfNumbers {
@@ -16,18 +16,16 @@ for number in listOfNumbers {
 
 print(max)
 
-// 6.2
-// Problem: print all the odd numbers from "listOfNumbers"
-// Solution:
+//: **Problem**: 6.2
+//: *Prompt*: print all the odd numbers from "listOfNumbers"
 for number in listOfNumbers {
     if number % 2 == 1 {
         print(number)
     }
 }
 
-// 6.3
-// Problem: print the sum of all the numbers in "listOfNumbers"
-// Solution:
+//: **Problem**: 6.3
+//: *Prompt*: print the sum of all the numbers in "listOfNumbers"
 var sum = 0
 
 for number in listOfNumbers {

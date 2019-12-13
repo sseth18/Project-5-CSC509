@@ -1,13 +1,10 @@
 # Project-5-CSC509
+ 
+ **Introduction to Git and Github**
+ 
+ Repository of solutions to array and list problems from various sources.
+ 
+ 
  Samar Seth
- 
- asdjf**ladjs**
- 
- Introduction to Git and GitHub
- 
- ### Subtitle
- asd*fjlkad*sjfl
- 
- asdlkfjaslkdf
  
  [GitHub](https://www.github.com)

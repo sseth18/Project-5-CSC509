@@ -1,3 +1,6 @@
+//: Samar Seth
+//: Problem found at [Project Euler Question 17](https://projecteuler.net/problem=17)
+//: *Prompt*: If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used?
 
 let underTwentyValues = ["", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
 let tens = ["", "ten", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]

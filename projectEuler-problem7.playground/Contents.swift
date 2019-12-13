@@ -1,3 +1,6 @@
+//: Samar Seth
+//: Problem found at [Project Euler Question 7](https://projecteuler.net/problem=7)
+//: *Prompt*: What is the 10,001st prime number?
 
 func isPrime(input: Int) -> Bool {
     if input <= 1 { return false }

@@ -1,4 +1,6 @@
-
+//: Samar Seth
+//: Problem found at [Project Euler Question 10](https://projecteuler.net/problem=10)
+//: *Prompt*: Find the sum of all the primes below two million.
 
 func sieve(length: Int = 2000000) -> [Int] {
     var numbers: [Int] = [0, 0] + Array(repeating: 1, count: length-1)
