@@ -13,7 +13,6 @@ for number in listOfNumbers {
         max = number
     }
 }
-
 print(max)
 
 //: **Problem**: 6.2
@@ -31,5 +30,4 @@ var sum = 0
 for number in listOfNumbers {
     sum += number
 }
-
 print(sum)
