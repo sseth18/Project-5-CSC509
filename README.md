@@ -4,7 +4,7 @@
  
  ## Arrays and Loops
  
- Short introuctory homework assignment that we performed on arrays and iterating over them.
+ Short introductory homework assignment that we performed on arrays and iterating over them.
  
  ## Coding Bat Problems
  
