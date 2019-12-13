@@ -1,6 +1,4 @@
-# CSC509: Project 5
- 
- ## Introduction to Git and Github
+# CSC509-Project 5: Introduction to Git and Github
  
  Repository of solutions to array and list problems from various sources.
  
