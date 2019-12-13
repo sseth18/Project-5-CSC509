@@ -1,6 +1,6 @@
 //: Samar Seth
 //: [Questions](https://www.weheartswift.com/arrays/)
-
+   
 // "listOfNumbers" referred to in all three questions
 var listOfNumbers = [1, 2, 3, 10, 100]
 

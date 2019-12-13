@@ -1,5 +1,5 @@
 //: Samar Seth
-//: Problems found at [Coding Bat Array-1](https://codingbat.com/java/Array-1)
+//: Problems found at [Coding Bat Array-1](https://codingbat.com/java/Array-1) 
 
 //: **Problem**: [firstLast6](https://codingbat.com/prob/p185685)
 //: *Prompt*: Given an array of ints, return true if 6 appears as either the first or last element in the array. The array will be length 1 or more.
